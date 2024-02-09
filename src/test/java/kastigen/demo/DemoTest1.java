@@ -1,4 +1,6 @@
-import org.junit.jupiter.api.Test;
+package kastigen.demo;
+
+import org.junit.Test;
 
 public class DemoTest1 {
 
